@@ -24,3 +24,4 @@ To become a trusted digital payment ecosystem that empowers individuals and busi
     <img src="https://img.shields.io/badge/README-GITHUB-1E90FF?style=for-the-badge&logoColor=000000" alt="github" />
 </div>
 
+<h5>Copyright (c) 2026 TOM STUDIOS</h5>
