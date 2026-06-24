@@ -1,4 +1,4 @@
-<H1 align="centre"> X PAY </H1>
+<H1 align="center"> X PAY </H1>
 
 <h2>ABOUT</h2>
 
